@@ -1,0 +1,16 @@
+[
+    {
+        "minimal": {
+            "vowels": "a",
+            "consonants": "bc"
+        },
+        "english": {
+            "vowels": "eyuioa",
+            "consonants": "qwrtpsdfghjklzxcvbnm"
+        },
+        "polish": {
+            "vowels": "eyuioa\u0119\u00f3\u0105",
+            "consonants": "qwrtpsdfghjklzxcvbnm\u015b\u0142\u017c\u017a\u0107\u0144"
+        }
+    }
+]
